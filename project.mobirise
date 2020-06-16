@@ -41,7 +41,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 22,
+    "uniqCompNum": 20,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
@@ -53,7 +53,7 @@
       "settings": {
         "main": true,
         "title": "Presta lemos express",
-        "meta_descr": "Á empresa presta lemos é especializada em serviços que você proucura, montagem de moveis, eletrica, limpeza de caixas d' água, limpeza em piscinas, CFTV entre outros serviços. entre em contato e agende um orçamento.",
+        "meta_descr": "Presta Lemos Express é a empresa ideal para entregas, coletas, logística, cartórios e mecado livre flex.\nmotoboys 24h disponíveis entre em contato.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
