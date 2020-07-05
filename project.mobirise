@@ -41,7 +41,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 20,
+    "uniqCompNum": 22,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
@@ -53,7 +53,7 @@
       "settings": {
         "main": true,
         "title": "Presta lemos express",
-        "meta_descr": "Presta Lemos Express é a empresa ideal para entregas, coletas, logística, cartórios e mecado livre flex.\nMotoboys 24h disponíveis. Entre em contato.",
+        "meta_descr": "Presta Lemos Express é a empresa ideal para entregas, coletas, logística, cartórios, carretos e mecado livre flex.\nServiços 24h. Entre em contato",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
